@@ -3,20 +3,25 @@ body {
     font-weight: normal;
     margin: 0;
     padding: 0;
-    background-color: black;
+    background-color: #cca713;
     height: 100vh;
     display: flex;
 }
 
 h1 {
-    color: rgb(14, 186, 43);
+    color: rgb(13,39,5);
     font-size: 75px;
     margin-top: 5px;
     margin-bottom: 5px;
+    text-align: center;
 }
 
 p {
-    color: white;
+    color: rgb(13, 39, 5); 
+}
+
+.project a {
+    color:rgb(13, 39, 5);
 }
 
 .project img {

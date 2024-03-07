@@ -1,0 +1,25 @@
+body {
+    font-family: "Source Code Pro", monospace;
+    font-weight: normal;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    height: 100vh;
+    display: flex;
+}
+
+h1 {
+    color: rgb(14, 186, 43);
+    font-size: 75px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+p {
+    color: white;
+}
+
+.project img {
+    width: 200px;
+    height: auto;
+}

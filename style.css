@@ -27,6 +27,11 @@ h2 {
     color: rgb(14, 186, 43);
 }
 
+.project img {
+    width: 200px;
+    height: auto;
+}
+
 nav ul {
     list-style-type: none;
     padding: 0;

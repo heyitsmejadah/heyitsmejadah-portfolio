@@ -3,28 +3,42 @@ body {
     font-weight: normal;
     margin: 0;
     padding: 0;
-    background-color: #cca713;
+    background-color: #70a250;
     height: 100vh;
     display: flex;
 }
 
+header {
+    background-color: #203013;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+
 h1 {
-    color: rgb(13,39,5);
+    color: #ffef42;
     font-size: 75px;
     margin-top: 5px;
     margin-bottom: 5px;
     text-align: center;
 }
 
+h2 {
+    color: #fff;
+    text-align: center;
+    margin: 0;
+}
+
 p {
-    color: rgb(13, 39, 5); 
+    color: rgb(255, 255, 255); 
+}
+
+.project {
+    margin-left: 20px;
 }
 
 .project a {
-    color:rgb(13, 39, 5);
-}
-
-.project img {
-    width: 200px;
-    height: auto;
+    color:#ffef42;
 }

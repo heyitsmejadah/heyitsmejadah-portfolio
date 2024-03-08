@@ -1,0 +1,43 @@
+body {
+    font-family: "Source Code Pro", monospace;
+    font-weight: normal;
+    background-color: #203013; 
+    margin: 0;
+    padding: 0;
+    border: url(./Enchanted\ Forest\ Portfolio.jpg); 
+    box-sizing: border-box; 
+    overflow: hidden;
+}
+
+h1 {
+    color: #ffef42;
+    text-align: center;
+    font-size: 100px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+li {
+    margin-bottom: 10px;
+    color: #fff;
+}
+
+strong {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+a {
+    color: #fff; 
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
